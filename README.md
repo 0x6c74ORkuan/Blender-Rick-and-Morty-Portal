@@ -1,5 +1,4 @@
-[blender瑞克和莫蒂传送门实景合成制作.md](https://github.com/user-attachments/files/30738643/blender.md)
-首先推荐blender版本使用4.5，用5.0可能会导致渲染的时候闪退（up主遇到好多次）
+### 首先推荐blender版本使用4.5，用5.0可能会导致渲染的时候闪退（up主遇到好多次）
 
 需要准备：独立显卡；一个可以被追踪点标记的视频；blender软件；github
 
